@@ -1,0 +1,28 @@
+name: JohnHasson
+favicon: null
+layout_spectrum: 0.7689437286462635
+typography_spectrum: 0.894753051456064
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8874654057435691
+  lightness: 0.6447315150871873
+  saturation: 0.39169092336669564
+  rhythmicContrast: 0.30924396379850805
+purpose: []
