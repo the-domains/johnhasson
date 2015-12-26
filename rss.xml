@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[John Hasson]]></title>
+        <description><![CDATA[John Hasson]]></description>
+        <link>http://www.johnhasson.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Dec 2015 21:39:19 GMT</lastBuildDate>
+        <atom:link href="http://www.johnhasson.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.imgur.com/5GdiMPp.gif">]]></description>
+            <link>http://www.johnhasson.com/508d327e-2c68-4987-b558-91c0d4e486cf/index.html</link>
+            <guid isPermaLink="false">508d327e-2c68-4987-b558-91c0d4e486cf</guid>
+            <pubDate>Sat, 26 Dec 2015 21:39:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.imgur.com/1A9C8Yv.gif">]]></description>
+            <link>http://www.johnhasson.com/a72a1dd8-080f-4a26-9d77-49d8d55bf600/index.html</link>
+            <guid isPermaLink="false">a72a1dd8-080f-4a26-9d77-49d8d55bf600</guid>
+            <pubDate>Thu, 24 Dec 2015 05:17:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
